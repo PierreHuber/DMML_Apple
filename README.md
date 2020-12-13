@@ -61,10 +61,10 @@ Sub | Classifier | Tokenizer + details | test_split accuracy | score
 3 | LogReg(max_iter=1000) | TF-IDF default, Tokenizer = SimplePreprocess | 0.793 | 0.7819
 4 | LogRegCV(cv=5, max_iter=1000) | Tokenizer = SimplePreprocess | ? | 0.7224
 5 | LogRegCV(cv=5, max_iter=1000) | Tokenizer = SimplePreprocess, duplicates dropped | ? | 0.7863
-6 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, Simple Tokenizer | x | 0.813
-7 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, Simple Tokenizer, Resampled | ? | 0.800
-8 | RandomForestClassifier | TF-IDF default, Simple Tokenizer | 0.775 | 0.799
-9 | RandomForestClassifier | TF-IDF default, Simple Toenizer, Resampled | ? | 0.800
+6 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, Simple Tokenizer | 0.799 | 0.813
+7 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, Simple Tokenizer, Resampled | x | 0.800
+8 | RandomForestClassifier | TF-IDF default, Simple Tokenizer | 0.78 | 0.799
+9 | RandomForestClassifier | TF-IDF default, Simple Tokenizer, Resampled | x | 0.800
 10 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, merge keywords-tokens | 0.799 | 0.809
 11 | LogReg(max_iter=1000)| TF-IDF default, merge keywords-tokens | 0.806 | 0.808
 12 | LogRegCV(cv=5, max_iter=1000) | TF-IDF default, Improved Tokenizer, merge keywords-tokens | x | 0.813
