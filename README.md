@@ -78,7 +78,7 @@ Sub | Classifier | Tokenizer + details | test_split accuracy | score
 
 ## 📽️ Video
 
-Here is the link to our video explaning the different steps we took for our project. Feel free to reach out if you would like any details.
+Below, you can find a link to our video explaning the different steps we took for our project. Feel free to reach out if you would like any details.
 [![Team APPLE Video](https://github.com/PierreHuber/DMML_Apple/blob/main/Documents/Screenshot%202020-12-14%20at%2011.16.20.png)](https://youtu.be/vlzn_jD2W7c "Team Apple Video")
 
 
