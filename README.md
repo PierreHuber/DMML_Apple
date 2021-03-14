@@ -3,7 +3,7 @@
 This team is composed of Mael Maceiras, Stéphane Vez and Pierre Huber.
 
 ## 🔍 Project description
-For the class "Data Mining & Machine Learning", which is part of our Master's programm in Information System, we were giving the following challenge:
+For the class "Data Mining & Machine Learning", which is part of our Master's programm in Information Systems, we were giving the following challenge:
 
 *Real or Not? NLP with Disaster Tweets: In this project, you are challenged to build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition.*
 
